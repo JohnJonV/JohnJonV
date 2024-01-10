@@ -1,7 +1,7 @@
-# 💫 About Me:
+# About Me:
 Estudante de programação adentrando o mundo das linhas de códigos e bugs.<br>Meu foco é Python mas sempre estou aprendendo algo novo.
 
-# 💻 Tech Stack:
+# Linguagens:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JohnJonV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
