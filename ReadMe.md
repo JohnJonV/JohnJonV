@@ -1,4 +1,4 @@
-# About Me:
+# Sobre mim:
 Estudante de programação adentrando o mundo das linhas de códigos e bugs.<br>Meu foco é Python mas sempre estou aprendendo algo novo.
 
 # Linguagens:
